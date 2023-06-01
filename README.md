@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](https://your-solution-url.com)
-- Live Site URL: [GitHub Page](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Ikquilibrium-SG/interactive-rating-component-main.git)
+- Live Site URL: [GitHub Page](https://ikquilibrium-sg.github.io/interactive-rating-component-main/)
 
 ## My process
 
